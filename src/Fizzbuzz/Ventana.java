@@ -24,7 +24,7 @@ public class Ventana extends JFrame{
 
         //elementos contenidos
         JLabel coso = new JLabel();
-        coso.setText("waltuh");
+        coso.setText("waltuuuh");
         coso.setSize(100,40);
         coso.setLocation(175,50);
         coso.setBackground(Color.white);
